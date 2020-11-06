@@ -1,0 +1,7 @@
+- Trello / Airtable
+- Evernote
+- Google Meet
+- Google Drive
+- Google Docs
+- Discord
+- Slack
