@@ -26,8 +26,33 @@ Qu'a changé pour toi le travail à distance comparé au présentiel ?
 
 Plutôt beurre doux ou beurre salé ?
 
-### Question 5
+### Question 6
 
-### Question 5
+Avez-vous un suivi régulier avec les élèves ?
 
-### Question 5
+### Question 7
+
+Comment évaluez-vous vos relations avec vos collègues en télétravail ?
+
+### Question 8
+
+Selon vous, quels sont les principaux inconvénients du télétravail ?
+
+### Question 9
+
+Selon vous, quels sont les principaux avantages du télétravail ?
+
+### Question 10
+
+D’après vous, quels sont les éléments qui pourraient être améliorés pour rendre le télétravail plus attractif et plus efficace ? 
+
+### Question 11
+
+Y-a-t-il des outils dont vous avez besoin qui sont manquants ?
+
+### Question 12
+
+Comment voyez-vous si un de vos élèves est en difficultés ?
+
+(il y a surement des questions en double, j'ai pas fait attentions je me suis fait une liste hier soir, si elles sont pas top n'hésitez pas à supprimer)
+
