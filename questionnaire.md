@@ -48,15 +48,15 @@ Si oui - Pourquoi ? Comment ? à quelle fréquence ?
 
 ### Question 10 (E/F)
 
+Comment voyez-vous si un de vos élèves/camarades est en difficultés ?
+
+### Question 11 (E/F)
+
 Comment évalues-tu tes relations avec vos collègues en télétravail comparé au présentiel ?
 Très Mauvaises / Mauvaises / OK / Bonnes / Très Bonnes
 Pourquoi ? 
 
-### Question 11 (E/F)
+### Question 12 (E/F)
 
 Aimerais-tu d'avantage de lien/correspondance/communication/entraide avec tes pairs ?
-
-### Question 12 (F)
-
-Comment voyez-vous si un de vos élèves est en difficultés ?
 
