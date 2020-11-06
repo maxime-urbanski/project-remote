@@ -1,58 +1,62 @@
-### Question 1 
+### Question 1 (E/F)
 
-Es-tu en train de suivre une formation à distance ou en télétravail ?
+As-tu déjà pratiqué le télétravail (formation à distance incluse)?
+Si oui pourquoi ? Dans quel contexte ?
 
-### Question 2 
+### Question 2 (E/F)
 
 Quels outils utilises-tu ? (e.g. slack)
+Y-a-t-il des outils dont vous avez besoin qui sont manquants ? 
 
-### Question 3
+### Question 3 (E/F)
 
-Qu'est ce qui te manque durant ta formation / ton travail à distance ?
+Comment te sens-tu durant / as-tu vécu cette période ?
 
-### Question 4
-
-Te sens-tu seul.e, ou mal accompagné.e durant tes heures de travail ? (à préciser / communauté ...)
-
-### Question 5
-
-Serais tu capable de décrire ce que tu aimes ou deteste sur le travail/formation remote
-
-### Question 5
+### Question 4 (E/F)
 
 Qu'a changé pour toi le travail à distance comparé au présentiel ?
 
-### Question 5
+### Question 5 (E/F) ???? 
 
-Plutôt beurre doux ou beurre salé ?
+Que te manque-t-il le plus du présentiel ? Qu'aimerais-tu ramener du présentiel au télétravail ?
 
-### Question 6
+### Question 5b (E/F) 
 
-Avez-vous un suivi régulier avec les élèves ?
+Estimes-tu tes conditions de travail en remote satisfaisantes ? Arrives-tu à t'organiser ?
 
-### Question 7
-
-Comment évaluez-vous vos relations avec vos collègues en télétravail ?
-
-### Question 8
+### Question 6 (E/F)
 
 Selon vous, quels sont les principaux inconvénients du télétravail ?
 
-### Question 9
+### Question 7 (E/F)
 
 Selon vous, quels sont les principaux avantages du télétravail ?
 
-### Question 10
+### Question 8 (E/F)
 
 D’après vous, quels sont les éléments qui pourraient être améliorés pour rendre le télétravail plus attractif et plus efficace ? 
 
-### Question 11
+### Question 9 (F)
 
-Y-a-t-il des outils dont vous avez besoin qui sont manquants ?
+Avez-vous un suivi régulier avec les élèves ? 
+Si oui - Pourquoi ? Comment ? A quelle fréquence ?
 
-### Question 12
+### Question 9b (E)
+
+Te sens-tu assez suivi par ton formateur à distance ?
+Si oui - Pourquoi ? Comment ? à quelle fréquence ?
+
+### Question 10 (E/F)
+
+Comment évalues-tu tes relations avec vos collègues en télétravail comparé au présentiel ?
+Très Mauvaises / Mauvaises / OK / Bonnes / Très Bonnes
+Pourquoi ? 
+
+### Question 11 (E/F)
+
+Aimerais-tu d'avantage de lien/correspondance/communication/entraide avec tes pairs ?
+
+### Question 12 (F)
 
 Comment voyez-vous si un de vos élèves est en difficultés ?
-
-(il y a surement des questions en double, j'ai pas fait attentions je me suis fait une liste hier soir, si elles sont pas top n'hésitez pas à supprimer)
 
